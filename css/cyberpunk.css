@@ -11669,7 +11669,6 @@ figure.highlight .section {
 .widget,
 .footer {
   background-color: rgba(255,255,255,0.7);
-  backdrop-filter: blur(3px);
 }
 body {
   counter-reset: card;
